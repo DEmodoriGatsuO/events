@@ -1,5 +1,6 @@
 # PowerApps で家計簿アプリを作ろう　にお邪魔しました
  - URL: https://akiika-yuruyuru.connpass.com/event/262557/
+ - Date: 2022.10.10 - 20:00 - 21:30
 
 ## お題
 ```
